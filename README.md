@@ -1,4 +1,4 @@
-![Linkedin banner simples preto e branco (1)](https://github.com/user-attachments/assets/1171e13f-bb8c-4f23-b689-f9d6e3048930)
+![Linkedin banner simples preto e branco](https://github.com/user-attachments/assets/fc5d8925-fcc7-487c-9835-8806990de253)
 
 ###
 
