@@ -2,11 +2,14 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor back end com experiência em APIs, boas práticas e padrões de projeto. Tenho foco em criar soluções eficientes e de qualidade, com entregas ágeis. Sou adaptável, colaborativo e estou sempre aprendendo, buscando aplicar inovação no desenvolvimento de software.</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp; Sou desenvolvedor back end com experiência na construção de <strong>APIs escaláveis</strong> e foco em escrever código claro, de qualidade e fácil de manter. No dia a dia, aplico <strong>boas práticas</strong>, utilizo <strong>padrões de projeto (Design Patterns)</strong> e sigo os princípios do <strong>SOLID</strong> para garantir um desenvolvimento mais organizado e sustentável. Também trabalho com <strong>Clean Architecture</strong>, o que me ajuda a estruturar sistemas de forma mais limpa e flexível. Gosto de colaborar, me adaptar a diferentes contextos e estou sempre aprendendo para evoluir e entregar soluções cada vez melhores.
+</p>
+
 
 ###
 
-<h2 align="left">Ferramentas</h2>
+<h2 align="left">Tools</h2>
 
 ###
 
@@ -25,19 +28,3 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=idea" height="36" alt="intellijidea logo"  />
 </div>
-
-
-<h2 align="left">Contatos</h2>
-
-
-<div align="left">
-  <a href="mailto:danmoreira.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="28" alt="gmail logo" style="border: none; outline: none;" />
-  </a>
-  
-  <a href="https://linkedin.com/in/daniel-moreira-86836a232/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="28" alt="linkedin logo" style="border: none; outline: none;" />
-  </a>  
-</div>
-
-
