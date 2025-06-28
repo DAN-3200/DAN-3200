@@ -3,7 +3,7 @@
 ###
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;<strong>Olá!</strong> Eu sou <strong>Daniel</strong>, fissurado pela área de <strong>tecnologia</strong> e apaixonado por codar e <strong>construir coisas incríveis</strong>. Trabalho como <strong>desenvolvedor back end</strong>, criando <strong>APIs escaláveis</strong>, seguindo as melhores <strong>boas práticas</strong>, aplicando <strong>Design Patterns</strong> e respeitando os princípios <strong>SOLID</strong>. Também curto usar <strong>Clean Architecture</strong> para manter o código sempre pronto para crescer. Bora tirar ideias do papel e construir algo juntos?
+  &nbsp;&nbsp;&nbsp;&nbsp;<strong>Olá!</strong> Eu sou Daniel, fissurado pela área de <strong>tecnologia</strong> e apaixonado por codar e <strong>construir coisas incríveis</strong>. Trabalho como <strong>desenvolvedor back end</strong>, criando <strong>APIs escaláveis</strong>, seguindo as melhores <strong>boas práticas</strong>, aplicando <strong>Design Patterns</strong> e respeitando os princípios <strong>SOLID</strong>. Também curto usar <strong>Clean Architecture</strong> para manter o código sempre pronto para crescer. Bora tirar ideias do papel e construir algo juntos?
 </p>
 
 ###
@@ -13,8 +13,8 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
