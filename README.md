@@ -3,9 +3,8 @@
 ###
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp; Sou desenvolvedor back end com experiência na construção de <strong>APIs escaláveis</strong> e foco em escrever código claro, de qualidade e fácil de manter. No dia a dia, aplico <strong>boas práticas</strong>, utilizo <strong>padrões de projeto (Design Patterns)</strong> e sigo os princípios do <strong>SOLID</strong> para garantir um desenvolvimento mais organizado e sustentável. Também trabalho com <strong>Clean Architecture</strong>, o que me ajuda a estruturar sistemas de forma mais limpa e flexível. Gosto de colaborar, me adaptar a diferentes contextos e estou sempre aprendendo para evoluir e entregar soluções cada vez melhores.
+  &nbsp;&nbsp;&nbsp;&nbsp;<strong>Olá!</strong> Eu sou <strong>Daniel</strong>, fissurado pela área de <strong>tecnologia</strong> e apaixonado por codar e <strong>construir coisas incríveis</strong>. Trabalho como <strong>desenvolvedor back end</strong>, criando <strong>APIs escaláveis</strong>, seguindo as melhores <strong>boas práticas</strong>, aplicando <strong>Design Patterns</strong> e respeitando os princípios <strong>SOLID</strong>. Também curto usar <strong>Clean Architecture</strong> para manter o código sempre pronto para crescer. Bora tirar ideias do papel e construir algo juntos?
 </p>
-
 
 ###
 
