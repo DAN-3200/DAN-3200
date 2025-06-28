@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">Ferramentas</h5>
+<h3 align="left">Ferramentas</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h5 align="left">Contatos</h5>
+<h3 align="left">Contatos</h3>
 
 ###
 
