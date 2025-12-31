@@ -13,8 +13,10 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="36" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="36" alt="dot-net logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
