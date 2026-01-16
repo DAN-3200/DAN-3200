@@ -13,19 +13,32 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="36" alt="csharp logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo"  />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="36" alt="dot-net logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="redis logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=idea" height="36" alt="intellijidea logo"  />
+
+  <!-- Stack principal (Backend Empresarial) -->
+  <img src="https://skillicons.dev/icons?i=cs" height="36" alt="csharp logo" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="36" alt="dotnet logo" />
+
+  <!-- Experiência complementar em Backend -->
+  <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo" />
+
+  <!-- Dados -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="redis logo" />
+
+  <!-- Infraestrutura -->
+  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo" />
+
+  <!-- Front-end (secundário) -->
+  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo" />
+
+  <!-- Ferramentas -->
+  <img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=idea" height="36" alt="intellijidea logo" />
+
 </div>
