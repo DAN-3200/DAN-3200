@@ -38,7 +38,8 @@
   <!-- Ferramentas -->
   <img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo" />
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=rider" height="36" alt="rider logo"  />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="36" alt="visualstudio logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo" />
-
+  
 </div>
