@@ -30,6 +30,9 @@
 
   <!-- Infraestrutura -->
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="36" alt="rabbitmq logo"  />
+  <img src="https://skillicons.dev/icons?i=grafana" height="36" alt="grafana logo"  />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="36" alt="prometheus logo"  />
 
   <!-- Front-end (secundário) -->
   <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo" />
@@ -38,8 +41,8 @@
   <!-- Ferramentas -->
   <img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo" />
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=rider" height="36" alt="rider logo"  />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="36" alt="visualstudio logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
+
   
 </div>
