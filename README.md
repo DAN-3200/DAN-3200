@@ -21,7 +21,7 @@
   <!-- Experiência complementar em Backend -->
   <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=bun" height="36" alt="nodejs logo" />
 
   <!-- Dados -->
   <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo" />
@@ -30,6 +30,7 @@
 
   <!-- Infraestrutura -->
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="36" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="36" alt="rabbitmq logo"  />
   <img src="https://skillicons.dev/icons?i=grafana" height="36" alt="grafana logo"  />
   <img src="https://skillicons.dev/icons?i=prometheus" height="36" alt="prometheus logo"  />
